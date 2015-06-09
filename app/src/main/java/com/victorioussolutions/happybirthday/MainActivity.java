@@ -38,6 +38,6 @@ public class MainActivity extends ActionBarActivity {
     }
 
     public void sendMessage(View view) {
-        view.setBackgroundColor(3);
+        view.setBackgroundColor(4);
     }
 }
